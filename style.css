@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+h1 {
+    font-family: 'Fredoka';
+    font-weight: 600;
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(255, 207, 134);
+}
+
+body {
+    font-family: 'Fredoka';
+    font-size: medium;
+    background-color: cornsilk;
+}
+
+div {
+    text-indent: 40px;
+}
+
+img {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+p {
+    font-family: 'Fredoka';
+    font-size: medium;
+    text-indent: 10;
+    margin: 0%;
+}
+
+button {
+    text-align: center;
+    font-family: 'Fredoka';
+    margin: 10px;
+    background-color: beige;
+    position: absolute;
+    left: 37%;
+}
+
+h2 {
+    font-family: 'Fredoka';
+    font-weight: 500;
+    font-size: large;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Fredoka';
+    font-weight: 300;
+    font-size: xx-small;
+    position: absolute;
+    bottom: 0;
+    left: 47%;
+}
